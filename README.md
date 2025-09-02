@@ -1,6 +1,7 @@
 # MyPortofolio-QA-Manual-Tester
 
-#ABOUT ME
+**#ABOUT ME
+**
 Hi, My name is Lela Sianturi. I have been working as Quality Assurance Tester for almost 5years.
 I’m a QA Tester who loves ensuring software works flawlessly. I enjoy creating test cases, finding bugs, and helping teams deliver better products.
 In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
