@@ -44,8 +44,6 @@ End Testing (Mobile App, Web App).
  ** Tools & Technologies**
 
  - SQL
-   
-
 - Software testing
 - Creating test cases
 - Reporting bugs
@@ -55,7 +53,9 @@ End Testing (Mobile App, Web App).
 - testing UAT
 - scrum workflow
 - Rest API testing
-- 
 
+**Courses** 📓
+
+- 
 
 
