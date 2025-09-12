@@ -28,8 +28,8 @@ In this portfolio, I would like to share my knowledge of QA and showcase my prac
 - Regression UAT, Writing Test Cases, Test Plan, Management History, Bug Reporting, End to
 End Testing (Mobile App, Web App).
 
-
- **** Tools & Technologies****
+**Tools & Technologies**
+ 
 - Jira – Project management and bug tracking.
 - TestRail – Test case management, planning, and result tracking.
 - Confluence – Documentation and project knowledge base.
@@ -44,7 +44,7 @@ End Testing (Mobile App, Web App).
 - DBeaver – Database management and SQL query execution.
 
 
-**** Tech skills****
+**Tech skills**
 
 - Basic SQL – Writing simple queries (SELECT, JOIN, WHERE) for data validation, database testing, and verifying test results
 - Software Testing – Manual and exploratory testing for web and mobile applications.
@@ -70,7 +70,19 @@ End Testing (Mobile App, Web App).
 - Organizational Skills
 
 **Courses** 📓
+- Scripting for tester 
+- Programming Foundations: Software Testing/QA
+- Developing Emotional Intelligence in Teams
+- Accelerated Learning &Productivity: The Compact Guide
+- Growth mindset : The complete guide
 
-- 
+
+**Certificates**
+
+-https://www.linkedin.com/learning/certificates/7babba22bb6bbc03370efa533ecc9db5554210cdbf40924d20d98a1f216d7062?u=127623298
+- https://www.linkedin.com/learning/certificates/eb455a78f0a7d627b5923a2647452be07c879a4998cd0ea292b8360260f5e148?u=127623298
+- https://udemy-certificate.s3.amazonaws.com/pdf/UC-7fe9b48f-fb85-4746-bfa4-d6a4169110d3.pdf
+- https://udemy-certificate.s3.amazonaws.com/pdf/UC-85e20866-ef65-41dd-9a5f-038a1e6d3227.pdf
+- haractercountonline.com
 
 
