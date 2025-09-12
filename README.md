@@ -57,6 +57,11 @@ End Testing (Mobile App, Web App).
 - Scrum Workflow – Working within Agile/Scrum methodology (sprint planning, stand-ups, retrospectives).
 - REST API Testing – Validating endpoints and responses using tools such as Postman.
 
+ ** Automation Testing (Learning Stage)**
+ 
+ - Katalon Studio (Beginner) – Exploring record & playback for web test automation.
+ - Playwright (Beginner) – Learning to create simple cross-browser UI test scripts.
+
 **Soft Skills 💡**
 
 - Analytical Thinking
