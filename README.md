@@ -9,9 +9,16 @@ In this portfolio, I would like to share my knowledge of QA and showcase my prac
 # My Experience
 
 **Quality Assurance Tester | [PT.Fintek Karya Nusantara] | 2019 – Present**
-- Designed and executed manual test cases for web and mobile applications, ensuring software met functional and business requirements.
-- Performed Functional, Regression, and User Acceptance Testing (UAT) to identify critical bugs and improve product quality.
-- Conducted API testing using Postman
+- Conduct manual testing for web and mobile applications to ensure high-quality user experiences.
+- Create and execute test cases, test plans, and test scenarios based on business and functional requirements.
+- Perform smoke testing, regression testing, and UAT (User Acceptance Testing) for new features and bug fixes.
+- Collaborate with developers, product owners, and business analysts to identify and document software defects using Jira.
+- Validate API responses using Postman and perform database verification using DBeaver (SQL).
+- Monitor logs and application performance using Kibana, Grafana, and Terminal
+- Manage test documentation and ensure traceability across testing phases in TestRail.
+- Participate in sprint planning, daily stand-ups, and retrospectives following the Agile/Scrum methodology.
+- Support UAT sessions and provide detailed test reports and defect summaries for stakeholders.
+- Support deployment activity
 -** Tools & Technologies**: JIRA, TestRail, Postman, Dbeaver (SQL), Confluence, Excel, Confluence, and Grafana 
 
 
